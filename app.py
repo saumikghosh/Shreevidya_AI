@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import streamlit as st
-from langchain_google_genai import ChatGoogleGenerativeAI
+
 from datetime import datetime,time
 from PIL import Image
 import google.generativeai as genai
